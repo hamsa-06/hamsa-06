@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Salesforce**
+- 💬 Ask me about **HTML,CSS,Javascript,Salesforce,Data Science**
 
 - 📫 How to reach me **shamsasaravanan06@gmail.com**
 
