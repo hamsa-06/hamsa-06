@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Salesforce,Data Science**
+- 💬 Ask me about **APEX,LWC,SOQL,DML,HTML,CSS,Javascript**
 
 - 📫 How to reach me **shamsasaravanan06@gmail.com**
 
